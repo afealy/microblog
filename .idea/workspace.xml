@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca7181ea-b952-4787-afb4-8f103f71cf7a" name="Default Changelist" comment="" />
+    <list default="true" id="ca7181ea-b952-4787-afb4-8f103f71cf7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/dotenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/ipython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/dotenv/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/python_dotenv-0.10.3.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R5bDUieC8oI77m1GgV7xRymko2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -36,5 +63,16 @@
       <updated>1568959784761</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
